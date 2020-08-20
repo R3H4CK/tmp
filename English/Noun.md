@@ -6,10 +6,21 @@
 
 ### 보통명사
 같은 종류의 사물에 두루 쓰이는 명사를 보통명사(Common Noun)라고 한다.
-  * ex) apple, boy, dog, desk, window, antibiotic, antibody
+
+* I am <b>a boy</b>.
+* There is <b>a pen</b> on the desk.
+* The girl has a lot of <b>piercings</b>.
+
+ex) apple, boy, dog, desk, window, antibiotic, antibody
+
 ### 집합명사
 비슷한 성질을 가진 하나의 집단을 가리킬 때 쓰이는 명사를 집합명사(Collective Noun)라고 한다.
-  * ex) family, audience, police, army, cattle, vermin, furuniture
+
++ ex) family, audience, police, army, cattle, vermin, furuniture
+
+* My <b>family</b> is harmonius.
+* The <b>audience</b> were deelpy moved by the leader's speech. (개인에 초점)
+* The <b>army</b> has been protected to us. (집단에 초점)
 
 ### 불가산명사같은 가산명사
 우리의 사고방식에서 다음은 불가산명사처럼 보이지만 영어권 화자에게는 가산명사이다.
@@ -21,7 +32,7 @@
 * 단수와 복수의 형태가 같은 단복동형 명사들
   * ex) heep, dear, fish
 
-### 특이한 경우
+### 특수한 경우
 다음의 경우는 본래 단어의 의미가 퇴색되거나 두 명사가 하나의 개념으로써 사용되는 경우이다.
 
 * 두 개의 명사가 하나의 개념을 이루거나 직관적으로 해석되는 명사
@@ -34,22 +45,40 @@
 
 ### 고유명사
 어느 특정한 사물에 한정하여 그 이름을 나타내는 명사를 고유명사(Proper Noun)라고 한다.
-  * ex) English, Korean, Jeon Minki, BTS, New York, Seoul, Noun
+
+* <b>Seoul</b> is the capital of Korea.
+* '<b>Minki</b> is good at English' is a lie.
+* The <b>Caesar cipher</b> is so named because the Roman historian <b>Suetonius</b> reported that <b>Julius Caesar</b> used it.
+
+ex) 
+
 ### 물질명사
 나누어 셀 수 없는 물질을 나타내는 명사를 물질명사(Material Noun)라고 한다.
-  * ex) water, salt, stone, soap, coffee, air, paper
+
+* She is dressed in silks.
+* All living things need water.
+* They deal in teas and tobaccos.
+
+ex) water, salt, stone, soap, coffee, air, paper
+
 ### 추상명사
 사랑이나 희망, 삶 따위의 추상적인 개념을 나타내는 명사를 추상명사(Abstract Noun)라고 한다.
-  * ex) love, hope, life, science, youth, beauty, intelligence
+
+* A man of <b>science</b> may not make money.
+* <b>Imagination</b> is more important than <b>knowledge</b>. 
+* I want to cry now because it's not <b>true</b> to the <b>love</b> gave her.
+
+ex) success, education, kindness, youth, love, beauty, advice, happiness, luck
 
 ### 가산명사같은 불가산명사
 문법 학습의 궁극적인 목표는 '해당 언어권 화자에 대한 이해'라고 생각되며 불가산과 가산의 개념이 그 첫걸음이다.
 
 * 해당 구성요소를 쪼개도 그 속성이 사라지지 않는 명사 (일반적인 설명)
 * 단위를 적용하여 셀 수 있는(가산)할 수 있는 명사 (본래의 정의)
-  * ex) baggage, beef, bread, cheese, funiture, money, pizza
 
-### 특이한 경우
+ex) baggage, beef, bread, cheese, funiture, money, pizza
+
+### 특수한 경우
 다음은 해석되는 뜻에 따라 가산명사와 불가산명사를 겸하는 경우이다.
 
 * 가산명사와 불사간명사를 겸하는 명사
@@ -67,11 +96,10 @@
   * S: Ann is an intelligent student.
   * O: The young child showing interest in nature later become a famous biologist.
   * S.C: Science is an important part of sport.
-  * O.C: 
+  * O.C: His mother's devoltion made Frank one of the greatest violinists
 
 ## 연습문장
 A. 다음 1~5의 문장에 대하여 품사를 분석하여라.
-
 1. I love you.
   * 해석: 나는 너를 사랑해.
   * I의 품사는 대명사(주격)이며 1인칭 단수이다.
@@ -98,9 +126,9 @@ A. 다음 1~5의 문장에 대하여 품사를 분석하여라.
   * 서술어 전체는 하나의 동사구(핵: bring)이며 me는 목적어, a glass of water라는 명사구(핵: water)는 목적격보어이다.
   * water는 물질명사이므로 불가산명사이다(불가산명사의 정의는 단위로 셀 수 있는 명사).
   
-B. 다음 1~5의 문장에 대하여 문형을 파악하고 명사구를 분석하라.
-1. Ann is &#91;D(an) M(intelligent) H(student)&#93;.  S
+B. 다음 1~5의 문장에 대하여 명사구의 기능과 구성을 분석하여라.
+1. Ann is &#91;D(an) M(intelligent) H(student)&#93;.  S.C
 2. &#91;D(The) M(young) H(child) M(showing interest in nature)&#93; later become &#91;D(a) M(famous) H(biologist)&#93;.  S, O
-3. Science is &#91;D(an) M(important) H(part) M(of sport)&#93;. S.C
-4. Physics is &#91;D(an) H(part) M(of natural science) of) M(principal) H(application) M(of science)&#93;.  S.C
-5. My love is like a false to intelligent and beautiful her.
+3. Science is &#91;D(an) M(important) H(part) M(of sport)&#93;.  S.C
+4. Physics is &#91;D(an) H(part) M(of natural science of principal application of science)&#93;.  S.C
+5. His mother's devoltion made Frank &#91;H(one) M(of the greatest violinists)&#91;.  O.C
