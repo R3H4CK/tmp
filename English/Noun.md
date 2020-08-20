@@ -35,7 +35,7 @@
 * 물질명사(Material Noun): 나누어 셀 수 없는 물질을 나타내는 명사
   * ex) water, salt, stone, soap, coffee, air, paper
 * 추상명사(Abstract Noun): 사랑이나 희망, 삶 따위의 추상적인 개념을 나타내는 명사
-  * ex) love, hope, life, science, youth, beauty, inelligence
+  * ex) love, hope, life, science, youth, beauty, intelligence
 
 ### 가산명사같은 불가산명사
 이쯤되면 문법 학습의 궁극적인 목표는 해석보단 '해당 언어권 화자에 대한 이해'라고 생각된다.
@@ -53,3 +53,21 @@
   * ex) cake(a piece of cake: 관용어)
 
 ## 연습문장
+다음 1~3 까지의 문장에 대하여 품사를 분석하여라.
+
+1. I love you.
+  * 해석: 나는 너를 사랑해.
+  * I의 품사는 대명사(주격)이며 1인칭 단수이다.
+  * love는 추상명사이므로 불가산명사이다.
+  * you의 품사는 대명사(소유격)이며 2인칭 단수이다. 
+2. You are a bad boy!
+  * 해석: 너는 나쁜 아이구나!
+  * boy는 보통명사이므로 가산명사이다.
+  * you는 주격대명사이며 2인칭 단수이다.
+  * 술어동사로 오는 be동사는 본래 2인칭 단수형인 thou의 퇴색으로 인해 2인칭 현재 복수형인 are이다.
+3. I think, therefore I am.
+  * 해석: 나는 생각한다. 고로 존재한다.
+  * think는 추상명사이므로 불가산명사이다.
+  * therefore는 '따라서'라는 뜻의 문장 전체를 꾸며주는 부사이다.
+  * be는 본래 존재한다라는 뜻을 가지고 있으며 1인칭 단수 현재형인 am으로 사용됬다. 
+4. I
