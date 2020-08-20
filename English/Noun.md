@@ -49,7 +49,6 @@ ex) family, audience, police, army, cattle, vermin, furuniture
 ex) English, Korean, Jeon Minki, BTS, New York, Seoul, Noun
 
 * <b>Seoul</b> is the capital of Korea.
-* '<b>Minki</b> is good at English' is a lie.
 * The <b>Caesar cipher</b> is so named because the Roman historian <b>Suetonius</b> reported that <b>Julius Caesar</b> used it.
 
 ### 물질명사
@@ -97,7 +96,7 @@ ex) success, education, kindness, youth, love, beauty, advice, happiness, luck
   * S.C: Science is an important part of sport.
   * O.C: His mother's devoltion made Frank one of the greatest violinists
 
-## 연습문장
+## 연습문제
 A. 다음 1~5의 문장에 대하여 품사를 분석하여라.
 1. I love you.
   * 해석: 나는 너를 사랑해.
