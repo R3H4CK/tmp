@@ -129,4 +129,4 @@ B. 다음 1~5의 문장에 대하여 명사구의 기능과 구성을 분석하�
 2. &#91;D(The) M(young) H(child) M(showing interest in nature)&#93; later become &#91;D(a) M(famous) H(biologist)&#93;.  S, O
 3. Science is &#91;D(an) M(important) H(part) M(of sport)&#93;.  S.C
 4. Physics is &#91;D(an) H(part) M(of natural science of principal application of science)&#93;.  S.C
-5. His mother's devoltion made Frank &#91;H(one) M(of the greatest violinists)&#91;.  O.C
+5. His mother's devoltion made Frank &#91;H(one) M(of the greatest violinists)&#93;.  O.C
