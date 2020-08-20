@@ -7,16 +7,16 @@
 ### 보통명사
 같은 종류의 사물에 두루 쓰이는 명사를 보통명사(Common Noun)라고 한다.
 
+ex) apple, boy, dog, desk, window, antibiotic, antibody
+
 * I am <b>a boy</b>.
 * There is <b>a pen</b> on the desk.
 * The girl has a lot of <b>piercings</b>.
 
-ex) apple, boy, dog, desk, window, antibiotic, antibody
-
 ### 집합명사
 비슷한 성질을 가진 하나의 집단을 가리킬 때 쓰이는 명사를 집합명사(Collective Noun)라고 한다.
 
-+ ex) family, audience, police, army, cattle, vermin, furuniture
+ex) family, audience, police, army, cattle, vermin, furuniture
 
 * My <b>family</b> is harmonius.
 * The <b>audience</b> were deelpy moved by the leader's speech. (개인에 초점)
@@ -46,37 +46,36 @@ ex) apple, boy, dog, desk, window, antibiotic, antibody
 ### 고유명사
 어느 특정한 사물에 한정하여 그 이름을 나타내는 명사를 고유명사(Proper Noun)라고 한다.
 
+ex) English, Korean, Jeon Minki, BTS, New York, Seoul, Noun
+
 * <b>Seoul</b> is the capital of Korea.
 * '<b>Minki</b> is good at English' is a lie.
 * The <b>Caesar cipher</b> is so named because the Roman historian <b>Suetonius</b> reported that <b>Julius Caesar</b> used it.
 
-ex) 
-
 ### 물질명사
 나누어 셀 수 없는 물질을 나타내는 명사를 물질명사(Material Noun)라고 한다.
+
+ex) water, salt, stone, soap, coffee, air, paper
 
 * She is dressed in silks.
 * All living things need water.
 * They deal in teas and tobaccos.
 
-ex) water, salt, stone, soap, coffee, air, paper
-
 ### 추상명사
 사랑이나 희망, 삶 따위의 추상적인 개념을 나타내는 명사를 추상명사(Abstract Noun)라고 한다.
+
+ex) success, education, kindness, youth, love, beauty, advice, happiness, luck
 
 * A man of <b>science</b> may not make money.
 * <b>Imagination</b> is more important than <b>knowledge</b>. 
 * I want to cry now because it's not <b>true</b> to the <b>love</b> gave her.
-
-ex) success, education, kindness, youth, love, beauty, advice, happiness, luck
 
 ### 가산명사같은 불가산명사
 문법 학습의 궁극적인 목표는 '해당 언어권 화자에 대한 이해'라고 생각되며 불가산과 가산의 개념이 그 첫걸음이다.
 
 * 해당 구성요소를 쪼개도 그 속성이 사라지지 않는 명사 (일반적인 설명)
 * 단위를 적용하여 셀 수 있는(가산)할 수 있는 명사 (본래의 정의)
-
-ex) baggage, beef, bread, cheese, funiture, money, pizza
+  * ex) baggage, beef, bread, cheese, funiture, money, pizza
 
 ### 특수한 경우
 다음은 해석되는 뜻에 따라 가산명사와 불가산명사를 겸하는 경우이다.
