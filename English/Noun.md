@@ -45,9 +45,11 @@
   * ex) baggage, beef, bread, cheese, funiture, money, pizza
 
 ### 특이한 경우
-다음의 경우는 가산명사와 불가산명사를 겸하는 경우인데 이는 집합명사(=복수)와 군집명사(=단수)의 차이이다.
+다음은 해석되는 뜻에 따라 가산명사와 불가산명사를 겸하는 경우이다.
 
 * 가산명사와 불사간명사를 겸하는 명사
-  * ex) chicken(닭: 가산, 닭고기: 불가산), family(가족: 군집명사=가산, 개개인을 지칭: 집합명사=불가산), paper(신문: 가산, 종이: 불가산), water(수역: 가산, 물: 불가산)
+  * ex) chicken, family, paper, water(수역: 가산, 물: 불가산)
 * 속담등의 관용어 또한 겸하는 명사
-  * ex) cake
+  * ex) cake(a piece of cake: 관용어)
+
+## 연습문장
