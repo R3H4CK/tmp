@@ -56,9 +56,9 @@ ex) English, Korean, Jeon Minki, BTS, New York, Seoul, Noun
 
 ex) water, salt, stone, soap, coffee, air, paper
 
-* She is dressed in silks.
-* All living things need water.
-* They deal in teas and tobaccos.
+* She is dressed in <b>silks</b>.
+* All living things need <b>water</b>.
+* They deal in <b>teas</b> and <b>tobaccos</b>.
 
 ### 추상명사
 사랑이나 희망, 삶 따위의 추상적인 개념을 나타내는 명사를 추상명사(Abstract Noun)라고 한다.
