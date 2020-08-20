@@ -52,8 +52,20 @@
 * 속담등의 관용어 또한 겸하는 명사
   * ex) cake(a piece of cake: 관용어)
 
+## 명사구
+명사를 핵으로 하여 명사의 앞뒤에 선택적으로 나타날 수 있는 한정사나 수식어로 이루지는 어구를 명사구(Noun phrase)라고 한다.
+
+* 형태: 한정사+(수식어)+명사+(수식어)
+
+### 명사구의 기능
+명사구는 문장의 주어, 동사나 전치사의 목적어, 주격 보어나 목적격 보어로 활용된다.
+  * S: Ann is an intelligent student.
+  * O: The young child showing interest in nature later become a famous biologist.
+  * S.C: Science is an important part of sport.
+  * O.C: 
+
 ## 연습문장
-다음 1~5 까지의 문장에 대하여 품사를 분석하여라.
+A. 다음 1~5의 문장에 대하여 품사를 분석하여라.
 
 1. I love you.
   * 해석: 나는 너를 사랑해.
@@ -80,3 +92,10 @@
   * Could는 조동사 can의 과거형이며 주어 you의 앞에 있으므로 의문문이다.
   * 서술어 전체는 하나의 동사구(핵: bring)이며 me는 목적어, a glass of water라는 명사구(핵: water)는 목적격보어이다.
   * water는 물질명사이므로 불가산명사이다(불가산명사의 정의는 단위로 셀 수 있는 명사).
+  
+B. 다음 1~5의 문장에 대하여 문형을 파악하고 명사구를 분석하라.
+1. Ann is &#91;D(an) M(intelligent) H(student)&#93;.  S
+2. &#91;D(The) M(young) H(child) M(showing interest in nature)&#93; later become &#91;D(a) M(famous) H(biologist)&#93;.  S, O
+3. Science is &#91;D(an) M(important) H(part) M(of sport)&#93;. S.C
+4. Physics is &#91;D(an) H(part) M(of natural science) of) M(principal) H(application) M(of science)&#93;.  S.C
+5. My love is like a false to intelligent and beautiful her.
