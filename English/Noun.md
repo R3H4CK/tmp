@@ -5,9 +5,9 @@
 셀 수 있는 명사를 가산명사(Countable Noun)라고 한다.
 
 * 보통명사(Common Noun): 같은 종류의 사물에 두루 쓰이는 명사 
- * ex) apple, boy, dog, desk, window, antibiotic, antibody
+  * ex) apple, boy, dog, desk, window, antibiotic, antibody
 * 집합명사(Collective Noun): 비슷한 성질을 가진 하나의 집단(=단수)을 가리킬 때 쓰이는 명사 ex)
- * ex) family, audience, police, army, cattle, vermin, furuniture
+  * ex) family, audience, police, army, cattle, vermin, furuniture
 
 ### 불가산명사같은 가산명사
 우리의 사고방식에서 다음은 불가산명사처럼 보이지만 영어권 화자에게는 가산명사이다.
