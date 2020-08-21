@@ -7,20 +7,21 @@
 ### 보통명사
 같은 종류의 사물에 두루 쓰이는 명사를 보통명사(Common Noun)라고 한다.
 
-ex) apple, boy, dog, desk, window, antibiotic, antibody
+* ex) apple, boy, dog, desk, window, antibiotic, antibody
 
-* I am <b>a boy</b>.
-* There is <b>a pen</b> on the desk.
-* The girl has a lot of <b>piercings</b>.
+1. The <b>dog</b> is a faithful animal.
+2. There is <b>a pen</b> on the desk.
+3. The girl has a lot of <b>piercings</b>.
 
 ### 집합명사
 비슷한 성질을 가진 하나의 집단을 가리킬 때 쓰이는 명사를 집합명사(Collective Noun)라고 한다.
 
-ex) family, audience, police, army, cattle, vermin, furuniture
+* 종류: 집합(=단수), 군집(=복수)
+* ex) family, audience, police, army, cattle, vermin, furuniture
 
-* My <b>family</b> is harmonius.
-* The <b>audience</b> were deelpy moved by the leader's speech. (개인에 초점)
-* The <b>army</b> has been protected to us. (집단에 초점)
+1. My <b>family</b> is harmonius.
+2. The <b>audience</b> were deelpy moved by the leader's speech.
+3. The <b>army</b> has been protected to us.
 
 ### 불가산명사같은 가산명사
 우리의 사고방식에서 다음은 불가산명사처럼 보이지만 영어권 화자에게는 가산명사이다.
@@ -46,28 +47,28 @@ ex) family, audience, police, army, cattle, vermin, furuniture
 ### 고유명사
 어느 특정한 사물에 한정하여 그 이름을 나타내는 명사를 고유명사(Proper Noun)라고 한다.
 
-ex) English, Korean, Jeon Minki, BTS, New York, Seoul, Noun
+* ex) English, Korean, Jeon Minki, BTS, New York, Seoul, Noun
 
-* <b>Seoul</b> is the capital of Korea.
-* The <b>Caesar cipher</b> is so named because the Roman historian <b>Suetonius</b> reported that <b>Julius Caesar</b> used it.
+1. <b>Seoul</b> is the capital of Korea.
+2. The <b>Caesar cipher</b> is so named because the Roman historian <b>Suetonius</b> reported that <b>Julius Caesar</b> used it.
 
 ### 물질명사
 나누어 셀 수 없는 물질을 나타내는 명사를 물질명사(Material Noun)라고 한다.
 
-ex) water, salt, stone, soap, coffee, air, paper
+* ex) water, salt, stone, soap, coffee, air, paper
 
-* She is dressed in <b>silks</b>.
-* All living things need <b>water</b>.
-* They deal in <b>teas</b> and <b>tobaccos</b>.
+1. She is dressed in <b>silks</b>.
+2. All living things need <b>water</b>.
+3. They deal in <b>teas</b> and <b>tobaccos</b>.
 
 ### 추상명사
 사랑이나 희망, 삶 따위의 추상적인 개념을 나타내는 명사를 추상명사(Abstract Noun)라고 한다.
 
-ex) success, education, kindness, youth, love, beauty, advice, happiness, luck
+* ex) success, education, kindness, youth, love, beauty, advice, happiness, luck
 
-* A man of <b>science</b> may not make money.
-* <b>Imagination</b> is more important than <b>knowledge</b>. 
-* I want to cry now because it's not <b>true</b> to the <b>love</b> gave her.
+1. A man of <b>science</b> may not make money.
+2. <b>Imagination</b> is more important than <b>knowledge</b>. 
+3. I want to cry now because it's not <b>true</b> to the <b>love</b> gave her.
 
 ### 가산명사같은 불가산명사
 문법 학습의 궁극적인 목표는 '해당 언어권 화자에 대한 이해'라고 생각되며 불가산과 가산의 개념이 그 첫걸음이다.
@@ -91,10 +92,11 @@ ex) success, education, kindness, youth, love, beauty, advice, happiness, luck
 
 ### 명사구의 기능
 명사구는 문장의 주어, 동사나 전치사의 목적어, 주격 보어나 목적격 보어로 활용된다.
-  * S: Ann is an intelligent student.
-  * O: The young child showing interest in nature later become a famous biologist.
-  * S.C: Science is an important part of sport.
-  * O.C: His mother's devoltion made Frank one of the greatest violinists
+  
+1. Ann is an intelligent student. S
+2. The young child showing interest in nature later become a famous biologist. O
+3. Science is an important part of sport. S.C
+4. His mother's devoltion made Frank one of the greatest violinists O.C
 
 ## 연습문제
 A. 다음 1~5의 문장에 대하여 품사를 분석하여라.
