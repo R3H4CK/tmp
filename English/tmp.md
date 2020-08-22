@@ -46,8 +46,8 @@
 
 * ex) love, anger, art, hope, friendship, justice, intelligent
 
-1. Happiness is the meaning and purpose of life.
-2. There is a lot of useful information on this website.
+1. <b>Happiness</b> is the meaning and purpose of life.
+2. There is a lot of useful <b>information</b> on this website.
 
 
 ## 보통명사화
@@ -57,10 +57,9 @@
 고유명사에 관사나 복수어미가 붙어 보통 다음과 같이 해석된다.
 
 <blockquote>
-* From 
+* From
   1. 관사+고유명사
   2. 고유명사+s[es]
-
 * Function
   1. ~와 같은 (훌륭한) 사람
   2. ~이라는 사람, ~가문의 사람
