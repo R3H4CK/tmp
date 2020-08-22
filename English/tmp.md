@@ -57,15 +57,15 @@
 고유명사에 관사나 복수어미가 붙어 보통 다음과 같이 해석된다.
 
 <blockquote>
-From:  
-  1. 관사+고유명사  
-  2. 고유명사+s[es]
-    
-Function:  
-  1. ~와 같은 (훌륭한) 사람  
-  2. ~이라는 사람, ~가문의 사람  
-  3. ~의 작품·제품  
-  4. ~부부, ~집안, ~일가족
+From:
+(1) 관사+고유명사
+(2) 고유명사+s[es]
+
+Function:
+(1) ~와 같은 (훌륭한) 사람  
+(2) ~이라는 사람, ~가문의 사람  
+(3) ~의 작품·제품  
+(4)~부부, ~집안, ~일가족  
 </blockquote>
 
 1. The self-proclaimed inventor wants to becom <b>an Edison</b>.
