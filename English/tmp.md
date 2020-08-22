@@ -70,7 +70,7 @@ Function:
 
 1. The self-proclaimed inventor wants to becom <b>an Edison</b>.
 2. There are <b>two Peters</b> in our department
-3. Iam se
+3. I am se
 
 ### 추상명사의 보통명사화
 
