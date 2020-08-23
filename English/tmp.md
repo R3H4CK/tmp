@@ -38,7 +38,7 @@
 나누어 셀 수 없는 물질을 나타내는 명사를 물질명사(material noun)라고 한다.
 
 1. <b>집합적 물질명사</b>: 집합을 이루지만 양으로 다루는 명사로 관사 없이 항상 단수 취급
-    * ex) baggage, clothing, equipment, furniture, fruit, luggage, merchandise, jewelry, machinery, poetry, scenery, produce
+   * ex) baggage, clothing, equipment, furniture, fruit, luggage, merchandise, jewelry, machinery, poetry, scenery, produce
 2. <b>물질명사의 수량표시</b>: 물질명사의 양을 표현할 때는 항상 양화사(수량형용사)를 사용
 
 1. She was dressed in <b>silks</b>.
