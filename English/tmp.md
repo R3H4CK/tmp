@@ -90,7 +90,7 @@
 1. 관사+물질명사
   * 제품: He has <b>a glass</b> in his hand.
   * 종류: This is <b>a</b> very good <b>wine</b>.
-  * 사건: <b>A heavy <b>snow</b> prevented me from coming back home.
+  * 사건: <b>A</b> heavy <b>snow</b> prevented me from coming back home.
 2. 물질명사+복수어미
   * 제품: She was dressed in <b>silks</b>.
   * 종류: I tasted several <b>chocolates</b>.
