@@ -80,7 +80,7 @@
 
 1. Too <b>much toxic</b> waste is being dumped at sea.
 2. Dribble a <b>little</b> olive <b>oil</b> over the salad.
-3. She has <b>some<b> lovely pieces of <b>jewellery</b>.
+3. She has <b>some</b> lovely pieces of <b>jewellery</b>.
 4. He baited the trap with <b>a piece of meat</b>.
 5. I have poured you <b>a cup of tea</b>.
 
