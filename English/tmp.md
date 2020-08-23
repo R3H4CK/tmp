@@ -8,19 +8,19 @@
 ### 보통명사
 같은 종류의 사물에 두루 쓰이는 명사를 보통명사(common noun)라고 한다.
 
-* ex) apple, boat, boy, child, dog, piano, thing
-
-1. The <b>dog</b> is a faithful animal.
-2. A <b>man</b> was leaning against the <b>tree</b> 
+1. a, the+단수 보통명사, 복수 보통명사
+2. the+단수 보통명사=추상명사의 뜻
 
 ### 집합명사
 비슷한 성질을 가진 하나의 집단을 가리킬 때 쓰이는 명사를 집합명사(collective noun)라고 한다.
 
-* ex) audience, family, police, army, cattle, vermin, furuniture
-
-1. Three <b>families</b> live in this house.
-2. The <b>audience</b> was too large for this kind of activity.
-
+1. Family형 집합명사: family, class, commuittee, audience, crowd, nation, army, people, party
+* 집합명사일 때 단수 취급하며 군집명사일 때 복수 취급
+2. Police형 집합명사: police, clergy, aristocracy, gentry, nobility, peasantry
+* 항상 앞에 정관사 the가 붙으며 복수 취급
+3. Cattle형 집합명사: cattle, people, vermin, poultry
+* 정관사나 부정관사 없이 항상 복수 취급
+4. 부분을 나타내는 말: part, portion, half, the rest, the majority, most, the bult
 
 ## 불가산명사
 셀 수 없는 명사를 불가산명사(uncountable noun)라고 한다.
@@ -46,31 +46,9 @@
 
 * ex) love, anger, art, hope, friendship, justice, intelligent
 
-1. <b>Happiness</b> is the meaning and purpose of life.
-2. There is a lot of useful <b>information</b> on this website.
+1. Happiness is the meaning and purpose of life.
+2. There is a lot of useful information on this website.
 
-
-## 보통명사화
-명사에 주로 관사나 복수어미를 붙이는 것으로 명사간의 상호변환이 일어난다.
-
-### 고유명사
-고유명사에 관사나 복수어미가 붙어 보통 다음과 같이 해석된다.
-
-* From
-  1. 관사+고유명사
-  2. 고유명사+s[es]
-
-* Function  
-  1. ~와 같은 (훌륭한) 사람
-  2. ~이라는 사람, ~가문의 사람
-  3. ~의 작품·제품
-  4. the+고유명사복수: ~부부, ~집안, ~일가족
-
-1. The self-proclaimed inventor wants to becom <b>an Edison</b>.
-2. There are <b>two Peters</b> in our department
-3. I am se
-
-### 추상명사의 보통명사화
 
 ## 명사구
 명사를 핵으로 하여 명사의 역할을 하는 구를 명사구(noun phrase)라고 한다.
