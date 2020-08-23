@@ -14,13 +14,13 @@
 ### 집합명사
 비슷한 성질을 가진 하나의 집단을 가리킬 때 쓰이는 명사를 집합명사(collective noun)라고 한다.
 
-1. Family형 집합명사: 집합명사일 때 단수 취급, 군집명사일 때 복수 취급
+1. <b>Family형 집합명사</b>: 집합명사일 때 단수 취급, 군집명사일 때 복수 취급
    * ex) family, class, commuittee, audience, crowd, nation, army, people, party
-2. Police형 집합명사: 항상 앞에 정관사 the가 붙으며 복수 취급
-   * ex) police, clergy, aristocracy, gentry, nobility, peasantry
-3. Cattle형 집합명사: 정관사나 부정관사 없이 항상 복수 취급
+2. <b>Police형 집합명사</b>: 항상 앞에 정관사 the가 붙으며 복수 취급
+   * ex) police, clergy, aristocracy, gentry, nobility, peasantry 
+3. <b>Cattle형 집합명사</b>: 정관사나 부정관사 없이 항상 복수 취급
    * ex) cattle, people, vermin, poultry
-4. 부분을 나타내는 말: 집합의 량을 나타내므로 정관사가 붙지 않고 항상 단수 취급
+4. <b>부분을 표현하는 말</b>: 뒤에 오는 말에 따라 복수 또는 단수 취급
    * ex) part, portion, half, the rest, the majority, most, the bult
 
 ## 불가산명사
@@ -37,6 +37,7 @@
 ### 물질명사
 나누어 셀 수 없는 물질을 나타내는 명사를 물질명사(material noun)라고 한다.
 
+1. 
 * ex) water, salt, stone, soap, coffee, air, paper
 
 1. She was dressed in <b>silks</b>.
