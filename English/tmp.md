@@ -14,13 +14,14 @@
 ### 집합명사
 비슷한 성질을 가진 하나의 집단을 가리킬 때 쓰이는 명사를 집합명사(collective noun)라고 한다.
 
-1. Family형 집합명사: family, class, commuittee, audience, crowd, nation, army, people, party
-   * 집합명사일 때 단수 취급하며 군집명사일 때 복수 취급
-2. Police형 집합명사: police, clergy, aristocracy, gentry, nobility, peasantry
-   * 항상 앞에 정관사 the가 붙으며 복수 취급
-3. Cattle형 집합명사: cattle, people, vermin, poultry
-   * 정관사나 부정관사 없이 항상 복수 취급
-4. 부분을 나타내는 말: part, portion, half, the rest, the majority, most, the bult
+1. Family형 집합명사: 집합명사일 때 단수 취급, 군집명사일 때 복수 취급
+   * ex) family, class, commuittee, audience, crowd, nation, army, people, party
+2. Police형 집합명사: 항상 앞에 정관사 the가 붙으며 복수 취급
+   * ex) police, clergy, aristocracy, gentry, nobility, peasantry
+3. Cattle형 집합명사: 정관사나 부정관사 없이 항상 복수 취급
+   * ex) cattle, people, vermin, poultry
+4. 부분을 나타내는 말: 집합의 량을 나타내므로 정관사가 붙지 않고 항상 단수 취급
+   * ex) part, portion, half, the rest, the majority, most, the bult
 
 ## 불가산명사
 셀 수 없는 명사를 불가산명사(uncountable noun)라고 한다.
