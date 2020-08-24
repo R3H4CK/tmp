@@ -88,13 +88,13 @@
 물질명사에 관사나 복수어미를 붙여 주로 제품, 종류, 사건 등의 보통명사처럼 쓸 수 있다.
 
 1. 관사+물질명사
-  * 제품: He has <b>a glass</b> in his hand.
-  * 종류: This is <b>a</b> very good <b>wine</b>.
-  * 사건: <b>A</b> heavy <b>snow</b> prevented me from coming back home.
+   * 제품: He has <b>a glass</b> in his hand.
+   * 종류: This is <b>a</b> very good <b>wine</b>.
+   * 사건: <b>A</b> heavy <b>snow</b> prevented me from coming back home.
 2. 물질명사+복수어미
-  * 제품: She was dressed in <b>silks</b>.
-  * 종류: I tasted several <b>chocolates</b>.
-  * 사건: Many <b>fires</b> break out from mischief.
+   * 제품: She was dressed in <b>silks</b>.
+   * 종류: I tasted several <b>chocolates</b>.
+   * 사건: Many <b>fires</b> break out from mischief.
 
 ### 추상명사
 사랑이나 희망, 삶 따위의 추상적인 개념을 나타내는 명사를 추상명사(abstract noun)라고 한다.
@@ -103,52 +103,52 @@
 추상명사에 관사나 복수어미를 붙여 주로 행위, 경험, 기회 등의 보통명사처럼 쓸 수 있다.
 
 1. 관사+추상명사
-  * 행위: You did me a kindness.
-  * 경험: 
-  * 기회:
+   * 행위: You did me a kindness.
+   * 경험: 
+   * 기회:
 2. 추상명사+복수어미
-  * 행위:
-  * 경험: He has had many odd experiences.
-  * 기회:
+   * 행위:
+   * 경험: He has had many odd experiences.
+   * 기회:
   
 #### 추상명사의 관용적 용법
 추상명사를 형용사나 부사처럼 사용하는 것을 추상명사의 관용적 용법이라고 한다.
 
 1. of+추상명사=형용사
-  * It is <b>of great use</b>&#91;very useful&#93; to me.
-  * of use=useful
-  * of value=valuable
-  * of virtue=virtuous
-  * of beauty=beautiful
-  * of courage=courageous
-  * of sense=sensible
-  * of experience=experienced
-  * of interes=interesting
-  * of wisdom=wise
+   * It is <b>of great use</b>&#91;very useful&#93; to me.
+   * of use=useful
+   * of value=valuable
+   * of virtue=virtuous
+   * of beauty=beautiful
+   * of courage=courageous
+   * of sense=sensible
+   * of experience=experienced
+   * of interes=interesting
+   * of wisdom=wise
 2. 전치사(with, in, by, on)+추상명사=부사
-  * He stepped on the girl’s foot on purpose&#91;intentionally&#93;.
-  * with ease=easily
-  * with kindness=kindly
-  * with care=carefully
-  * with fluency=fluently
-  * with diligence=diligently
-  * She looked up briefly&#91;in brief&#93; then returned to her sewing.
-  * in brief=briefly
-  * in comfort=comfortly
-  * by mistake=mistakenly
-  * by intention=intentionally
-  * on purpose=purposely
-  * on occasion=occasionally
-  * in length=lengthly
-  * without delay=at once
-  * without fail=for certain
-  * without leave=without permission
-  * without doubt=no doubt
-  * at will=freely
-  * at random=randomly
+   * He stepped on the girl’s foot on purpose&#91;intentionally&#93;.
+   * with ease=easily
+   * with kindness=kindly
+   * with care=carefully
+   * with fluency=fluently
+   * with diligence=diligently
+   * She looked up briefly&#91;in brief&#93; then returned to her sewing.
+   * in brief=briefly
+   * in comfort=comfortly
+   * by mistake=mistakenly
+   * by intention=intentionally
+   * on purpose=purposely
+   * on occasion=occasionally
+   * in length=lengthly
+   * without delay=at once
+   * without fail=for certain
+   * without leave=without permission
+   * without doubt=no doubt
+   * at will=freely
+   * at random=randomly
 3. all+추상명사,추상명사+itself=very+형용사
-  * all attentoin=very attentive
-  * kindness itself=very kind
+   * all attentoin=very attentive
+   * kindness itself=very kind
 
 ## 명사구
 명사를 핵으로 하여 명사의 역할을 하는 구를 명사구(noun phrase)라고 한다.
