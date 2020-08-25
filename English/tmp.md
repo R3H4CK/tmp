@@ -8,8 +8,16 @@
 ### 보통명사
 같은 종류의 사물에 두루 쓰이는 명사를 보통명사(common noun)라고 한다.
 
-* a, the+단수 보통명사, 복수 보통명사
-* the+단수 보통명사=추상명사의 뜻
+#### 보통명사의 용법
+보통명사는 반드시 관사나 복수어미를 붙여서 사용한다.
+
+1.
+
+#### 보통명사의 특별용법
+보통명사에 정관사를 붙여 추상명사의 뜻으로 사용할 수 있다.
+
+1. the+보통명사=추상명사의 의미
+2. the+형용사=복수 보통명사
 
 ### 집합명사
 비슷한 성질을 가진 하나의 집단을 가리킬 때 쓰이는 명사를 집합명사(collective noun)라고 한다.
@@ -104,7 +112,7 @@
 
 1. 관사+추상명사
    * 행위: You did me a kindness.
-   * 경험: 
+   * 경험: Swimming is a good exercise.
    * 기회:
 2. 추상명사+복수어미
    * 행위:
@@ -114,7 +122,7 @@
 #### 추상명사의 관용적 용법
 추상명사를 형용사나 부사처럼 사용하는 것을 추상명사의 관용적 용법이라고 한다.
 
-1. of+추상명사=형용사
+1. of+추상명사=형용사구
    * It is <b>of great use</b>&#91;very useful&#93; to me.
    * of use=useful
    * of value=valuable
@@ -125,27 +133,26 @@
    * of experience=experienced
    * of interes=interesting
    * of wisdom=wise
-2. 전치사(with, in, by, on)+추상명사=부사
-   * He stepped on the girl’s foot on purpose&#91;intentionally&#93;.
+2. 전치사+추상명사=부사구
    * with ease=easily
-   * with kindness=kindly
-   * with care=carefully
-   * with fluency=fluently
-   * with diligence=diligently
-   * She looked up briefly&#91;in brief&#93; then returned to her sewing.
-   * in brief=briefly
-   * in comfort=comfortly
-   * by mistake=mistakenly
-   * by intention=intentionally
-   * on purpose=purposely
-   * on occasion=occasionally
-   * in length=lengthly
-   * without delay=at once
-   * without fail=for certain
-   * without leave=without permission
-   * without doubt=no doubt
-   * at will=freely
-   * at random=randomly
+   with kindness=kindly
+   with care=carefully
+   with fluency=fluently
+   with diligence=diligently
+   in brief=briefly
+   in comfort=comfortly
+   by mistake=mistakenly
+   by intention=intentionally
+   on purpose=purposely
+   on occasion=occasionally
+   in length=lengthly
+   to no purpose=in vain
+   without delay=at once
+   without fail=for certain
+   without leave=without permission
+   without doubt=no doubt
+   at will=freely
+   at random=randomly
 3. all+추상명사,추상명사+itself=very+형용사
    * all attentoin=very attentive
    * kindness itself=very kind
