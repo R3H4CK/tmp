@@ -14,8 +14,6 @@
 <blockquote>
   1. 관사+단수 보통명사, 복수 보통명사 <br>
   2. the+단수 보통명사 <br>
-  
-  ex) apple, bus, dog, pen, month, inch, window
 </blockquote>
 
 1. <b>One</b> rotten <b>apple</b> spoils the barrel. <br> 썩은 사과 하나가 한 통의 사과를 망친다.
