@@ -34,12 +34,13 @@
   4. Part에 대한 명사 : part, portion, half, the rest, the majority, most, the bulk
 </blockquote>
 
-* ex) family, audience, police, ckergy, cattle, people, part
-
 1. Two <b>families</b> live in this house. <br> 이 집에는 두 가족이 산다.
-2. 
-3. <b>The police</b> are on the murderer's track. <br> 경찰이 살인자를 쫓고 있다.
-3. 
+2. <b>The nation</b> had been buffeted by a wave of strikes. <br> 증가하는 파업의 파도가 전국을 뒤흔들어 놓은 참이었다.
+3. He was conscripted into <b>the army</b> in 1939. <br> 그는 1939년에 육군에 징집되었다.
+4. The language of <b>a people</b> often reflects its characteristics. <br> 한 민족의 언어는 통상적으로 그 민족의 특성을 반영한다.
+5. The party has been penetrated by extremists. <br> 그 정당에는 과격론자들이 침투해 있다.
+6. <b>The police</b> are on the murderer's track. <br> 경찰이 살인자를 쫓고 있다.
+7. 
 
 ## 불가산명사
 셀 수 없는 명사를 불가산명사(uncountable noun)라고 한다.
