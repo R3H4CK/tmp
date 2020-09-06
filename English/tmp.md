@@ -28,9 +28,9 @@
 비슷한 성질을 가진 하나의 집단을 가리킬 때 쓰이는 명사를 집합명사(Collective Noun)라고 한다.
 
 <blockquote>
-  1. Family형 집합명사: family, nation, army, people, party
-  2. Police형 집합명사: police, clergy, aristocracy, gentry, nobility, peasantry
-  3. Cattle형 집합명사: cattle, people, vermin, poultry
+  1. Family형 집합명사: family, nation, army, people, party <br>
+  2. Police형 집합명사: police, clergy, aristocracy, gentry, nobility, peasantry <br>
+  3. Cattle형 집합명사: cattle, people, vermin, poultry <br>
   4. Part에 대한 명사 : part, portion, half, the rest, the majority, most, the bulk
 </blockquote>
 
