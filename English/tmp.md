@@ -12,8 +12,8 @@
 같은 종류의 사물에 두루 쓰이는 명사를 보통명사(Common Noun)라고 한다.
 
 <blockquote>
-  1. 관사+단수 보통명사, 복수 보통명사 <br>
-  2. the+단수 보통명사 <br>
+  (1) 관사+단수 보통명사, 복수 보통명사 <br>
+  (2) the+단수 보통명사 <br>
 </blockquote>
 
 1. <b>One</b> rotten <b>apple</b> spoils the barrel. <br> 썩은 사과 하나가 한 통의 사과를 망친다.
