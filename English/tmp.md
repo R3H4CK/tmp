@@ -11,8 +11,8 @@
 ### 보통명사
 같은 종류의 사물에 두루 쓰이는 명사를 보통명사(Common Noun)라고 한다.
 <blockquote>
-  1. 관사+단수 보통명사, 복수 보통명사
-  2. the+단수 보통명사
+  1. 관사+단수 보통명사, 복수 보통명사 <br>
+  2. the+단수 보통명사 <br>
   ex) apple, bus, dog, pen, month, inch, window
 </blockquote>
 
