@@ -12,8 +12,8 @@
 같은 종류의 사물에 두루 쓰이는 명사를 보통명사(Common Noun)라고 한다.
 
 <blockquote>
-  (1) 관사+단수 보통명사, 복수 보통명사 <br>
-  (2) the+단수 보통명사 <br>
+  1. 관사+단수 보통명사, 복수 보통명사 <br>
+  2. the+단수 보통명사 <br>
 </blockquote>
 
 1. <b>One</b> rotten <b>apple</b> spoils the barrel. <br> 썩은 사과 하나가 한 통의 사과를 망친다.
@@ -28,7 +28,10 @@
 비슷한 성질을 가진 하나의 집단을 가리킬 때 쓰이는 명사를 집합명사(Collective Noun)라고 한다.
 
 <blockquote>
-  
+  1. Family형 집합명사: family, nation, army, people, party
+  2. Police형 집합명사: police, clergy, aristocracy, gentry, nobility, peasantry
+  3. Cattle형 집합명사: cattle, people, vermin, poultry
+  4. Part에 대한 명사 : part, portion, half, the rest, the majority, most, the bulk
 </blockquote>
 
 * ex) family, audience, police, ckergy, cattle, people, part
