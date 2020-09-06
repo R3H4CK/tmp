@@ -14,6 +14,7 @@
 <blockquote>
   1. 관사+단수 보통명사, 복수 보통명사 <br>
   2. the+단수 보통명사 <br>
+  
   ex) apple, bus, dog, pen, month, inch, window
 </blockquote>
 
@@ -27,6 +28,10 @@
 
 ### 집합명사
 비슷한 성질을 가진 하나의 집단을 가리킬 때 쓰이는 명사를 집합명사(Collective Noun)라고 한다.
+
+<blockquote>
+  
+</blockquote>
 
 * ex) family, audience, police, ckergy, cattle, people, part
 
