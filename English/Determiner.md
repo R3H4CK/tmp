@@ -54,8 +54,8 @@
 수량을 나타내는 한정사를 양화사(quantifier)라고 한다.
 
 <blockquote>
-  1. 가산명사의 양화사 : some, (a) few, several, many, a lot of
-  2. 불가산명사의 양화사: some, (a) little, 
+  1. 數에 대한 양화사: some, (a) few, several, many, a lot of<br>
+  2. 量에 대한 양화사: some, (a) little, much a lot of, a great deal of, any 
 </blockquote>
 
 ## 소유격
