@@ -14,16 +14,13 @@
 
 ### 정관사
 특정한 대상을 한정하는 관사를 정관사(definite article)라고 한다.
-
-<blockquote>
-  1. 자음 앞에서는 a, 모음 앞에서는 an<br>
-  2. 종족 대표 (a=any)<br>
-  3. a=one<br>
-  4. a=the same<br>
-  5. a=a certain<br>
-  6. a=per<br>
-  7. a=some<br>
-</blockquote>
+`1. 자음 앞에서는 a, 모음 앞에서는 an<br>
+2. 종족 대표 (a=any)<br>
+3. a=one<br>
+4. a=the same<br>
+5. a=a certain<br>
+6. a=per<br>
+7. a=some<br>`
 
 ### 부정관사
 불특정한 대상을 한정하는 관사를 부정관사(indefinite article)라고 한다.
@@ -60,3 +57,7 @@
 
 ## 소유격
 특정 대상의 소유 관계를 나타내는 한정사를 소유격(possesive)라고 한다.
+
+<blockquote>
+  1. 사람의 소유격은 명사's이고 s로 끝나는 경우 명사
+</blockquote>
