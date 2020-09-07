@@ -14,13 +14,13 @@
 
 ### 정관사
 특정한 대상을 한정하는 관사를 정관사(definite article)라고 한다.
-`1. 자음 앞에서는 a, 모음 앞에서는 an<br>
-2. 종족 대표 (a=any)<br>
-3. a=one<br>
-4. a=the same<br>
-5. a=a certain<br>
-6. a=per<br>
-7. a=some<br>`
+`1. 자음 앞에서는 a, 모음 앞에서는 an  
+2. 종족 대표 (a=any)  
+3. a=one  
+4. a=the same  
+5. a=a certain  
+6. a=per  
+7. a=some`
 
 ### 부정관사
 불특정한 대상을 한정하는 관사를 부정관사(indefinite article)라고 한다.
