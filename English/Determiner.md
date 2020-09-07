@@ -29,6 +29,8 @@
 	</div>
 </blockquote>
 
+
+
 ### 부정관사
 불특정한 대상을 한정하는 관사를 부정관사(indefinite article)라고 한다.
 
