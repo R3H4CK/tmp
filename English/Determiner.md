@@ -16,26 +16,19 @@
 특정한 대상을 한정하는 관사를 정관사(definite article)라고 한다.
 
 <blockquote>
-  <div>
-    <ol>
-     <li>자음 앞에서는 a, 모음 앞에서는 an</li>
-     <li>종족 대표 (a=any)</li>
-     <li>a=one</li>
-     <li>a=the same</li>
-     <li>a=a certain</li>
-     <li>a=per</li>
-     <li>a=some</li>
-    </ol>
-  </div>
+	<div>
+		<ol>
+			<li>자음 앞에서는 a, 모음 앞에서는 an</li>
+			<li>종족 대표 (a=any)</li>
+			<li>a=one</li>
+			<li>a=the same</li>
+			<li>a=a certain</li>
+			<li>a=per</li>
+			<li>a=some</li>
+		</ol>
+	</div>
 </blockquote>
 
-
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
 ### 부정관사
 불특정한 대상을 한정하는 관사를 부정관사(indefinite article)라고 한다.
 
