@@ -17,7 +17,7 @@
   <div>
     <ol>
       <li>관사+단수 보통명사<br>복수 보통명사</li>
-      <li>the+단수 보통명사=추사명사의 뜻</li>
+      <li>the+단수 보통명사=추상명사의 뜻</li>
     </ol>
   </div>
 </blockquote>
