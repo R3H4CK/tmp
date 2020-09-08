@@ -16,10 +16,14 @@
 <blockquote>
   <div>
     <ol>
-      <li>관사+단수 보통명사<br>
-          복수 보통명사
+      <li>
+        관사+단수 보통명사 (대표 단수)<br>
+        복수 보통명사      (대표 복수)
       </li>
-      <li>the+단수 보통명사=추상명사의 뜻</li>
+      <li>
+        the+단수 보통명사=추상명사의 뜻<br>
+        (A는 B보다 강하다.)
+      </li>
     </ol>
   </div>
 </blockquote>
@@ -38,17 +42,21 @@
 <blockquote>
   <div>
     <ol>
-      <li>Family형 집합명사: 가족은 그 구성원이 명확하며 단위로써도 문제가 없으므로 단수 또는 복수로 쓴다.<br>
-          ex) family, nation, army, people, party
+      <li>
+        Family형 집합명사: 가족은 그 구성원이 명확하며 단위로써도 문제가 없으므로 단수 또는 복수로 쓴다.<br>
+        ex) family, nation, army, people, party
       </li>
-      <li>Police형 집합명사: 범인을 쫓고있는 경찰들을 일일이 셀 수는 없으므로 정관사를 사용하고 복수 취급한다.<br>
-          ex) police, clergy, aristocracy, gentry, nobility, peasantry
+      <li>
+        Police형 집합명사: 범인을 쫓고있는 경찰들을 일일이 셀 수는 없으므로 정관사를 사용하고 복수 취급한다.<br>
+        ex) police, clergy, aristocracy, gentry, nobility, peasantry
       </li>
-      <li>Cattle형 집합명사: 목장에 흩어저 있는 소떼들은 일일이 특정할 수 없고 셀 수도 없으므로 그대로 복수 취급한다.<br>
-          ex) cattle, people, vermin, poultry
+      <li>
+        Cattle형 집합명사: 목장에 흩어저 있는 소떼들은 일일이 특정할 수 없고 셀 수도 없으므로 그대로 복수 취급한다.<br>
+        ex) cattle, people, vermin, poultry
       </li>
-      <li>Part에 대한 명사 : 부분을 나타내는 경우는 가변적이므로 뒤에 오는 말에 따라 단수 또는 복수 취급한다.<br>
-          ex) part, portion, half, the rest, the majority, most, the bulk
+      <li>
+        Part에 대한 명사 : 부분을 나타내는 경우는 가변적이므로 뒤에 오는 말에 따라 단수 또는 복수 취급한다.<br>
+        ex) part, portion, half, the rest, the majority, most, the bulk
       </li>
     </ol>
     
