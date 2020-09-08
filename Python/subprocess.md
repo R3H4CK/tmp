@@ -1,5 +1,5 @@
 # Subprocess Examples
-This tutorial explains about general usage of the subprocess module. If you want to start this, write the test.py and follow the example codes. I hope you can be a master of the subprocess. enjoy.
+The subprocess module allows you to spawn new processes, connect to their input/output/error pipes, and obtain their return codes. This tutorial explains about general usage of the subprocess module. If you want to start this, write the test.py and follow the example codes. I hope you can be a master of the subprocess. enjoy.
 
 The test file in order to tutorial:
 ``` python
