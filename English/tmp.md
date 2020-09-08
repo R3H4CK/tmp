@@ -74,7 +74,18 @@
 8. She married into <b>the aristocracy</b>.<br>그녀는 귀족 집안으로 시집을 갔다.
 9. <b>The</b> English <b>gentry</b> are next below the noblity.<br>영국의 신사 계급은 귀족 다음간다.
 10. The arrogance of <b>the nobility</b> was resented by the middle class.<br>중산층은 귀족들의 오만함에 분개했다.
-
+11. <b>The peasantry</b> fear him like the very devil.<br>농민은 바로 악마처럼 그를 두려워한다.
+12. <b>Cattle</b> were grazing in the meadow.<br>그 소들은 목초지에 내놓여져 있었다.
+13. <b>People</b> were huddled together around the fire.<br>사람들이 불가에 옹송그리며 함께 모여 있었다.
+14. The room was crawling with <b>vermin</b>.<br>그 방에는 해충들이 기어다니고 있었다.
+15. The farmer keeps <b>poultry</b> and cattle.<br>그 농부는 닭과 소를 기른다.
+16. The last <b>part</b> of the race is all uphill.<br>그 경주로 마지막 구간 모두 오르막이었다.
+17. The central <b>portion</b> of the bridge collapsed.<br>그 다리의 중앙 부분이 붕괴되었다.
+18. <b>Half</b> the garrison is on duty.<br>수비대 절반이 임무 수행 중이다.
+19. <b>The rest</b> of the boys are playing baseball.<br>나머지 소년들은 야구를 하고 있다.
+20. <b>The majority</b> was in favour of banning smoking.<br>다수가 흡연 금지를 찬성했다.
+21. <b>Most</b> of football stickers are swaps.<br>내 축구 스티커는 대부분 교환한 것들이다.
+22. <b>The bulk</b> of the poulation lives in cities.<br>인구의 대부분이 도시에 산다.
 
 ## 불가산명사
 셀 수 없는 명사를 불가산명사(uncountable noun)라고 한다.
