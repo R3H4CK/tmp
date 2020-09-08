@@ -75,7 +75,7 @@ completedProcess = subprocess.run(["python", "test.py", "-M"], capture_output=Fa
 print(completedProcess)
 ```
 
-The *timeout* argumanet and the TimeoutExpired exception:
+The *timeout* argumanet and TimeoutExpired exception:
 ``` python
 import subprocess
 
