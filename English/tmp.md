@@ -16,7 +16,9 @@
 <blockquote>
   <div>
     <ol>
-      <li>관사+단수 보통명사<br>복수 보통명사</li>
+      <li>관사+단수 보통명사<br>
+          복수 보통명사
+      </li>
       <li>the+단수 보통명사=추상명사의 뜻</li>
     </ol>
   </div>
@@ -42,9 +44,15 @@
       <li>Police형 집합명사: 범인을 쫓고있는 경찰들을 일일이 셀 수는 없으므로 정관사를 사용하고 복수 취급한다.<br>
           ex) police, clergy, aristocracy, gentry, nobility, peasantry
       </li>
-      <li>Cattle형 집합명사: cattle, people, vermin, poultry</li>
-      <li>Part에 대한 명사 : part, portion, half, the rest, the majority, most, the bulk</li>
+      <li>Cattle형 집합명사: 목장에 흩어저 있는 소떼들은 일일이 특정할 수 없고 셀 수도 없으므로 그대로 복수 취급한다.<br>
+          ex) cattle, people, vermin, poultry
+      </li>
+      <li>Part에 대한 명사 : 부분을 나타내는 경우는 가변적이므로 뒤에 오는 말에 따라 단수 또는 복수 취급한다.<br>
+          ex) part, portion, half, the rest, the majority, most, the bulk
+      </li>
     </ol>
+    
+    Note: 집합이 아닌 그 구성원에 초점을 맞춰 복수 취급하는 경우 이를 군집명사라고 한다.
   </div>
 </blockquote>
 
