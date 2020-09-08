@@ -64,13 +64,17 @@
   </div>
 </blockquote>
 
-1. Two <b>families</b> live in this house. <br> 이 집에는 두 가족이 산다.
-2. <b>The nation</b> had been buffeted by a wave of strikes. <br> 증가하는 파업의 파도가 전국을 뒤흔들어 놓은 참이었다.
-3. He was conscripted into <b>the army</b> in 1939. <br> 그는 1939년에 육군에 징집되었다.
-4. The language of <b>a people</b> often reflects its characteristics. <br> 한 민족의 언어는 통상적으로 그 민족의 특성을 반영한다.
-5. The party has been penetrated by extremists. <br> 그 정당에는 과격론자들이 침투해 있다.
-6. <b>The police</b> are on the murderer's track. <br> 경찰이 살인자를 쫓고 있다.
-7. 
+1. Two <b>families</b> live in this house.<br>이 집에는 두 가족이 산다.
+2. <b>The nation</b> had been buffeted by a wave of strikes.<br>증가하는 파업의 파도가 전국을 뒤흔들어 놓은 참이었다.
+3. He was conscripted into <b>the army</b> in 1939.<br>그는 1939년에 육군에 징집되었다.
+4. The language of <b>a people</b> often reflects its characteristics.<br>한 민족의 언어는 통상적으로 그 민족의 특성을 반영한다.
+5. <b>The party</b> has been penetrated by extremists.<br>그 정당에는 과격론자들이 침투해 있다.
+6. <b>The police</b> are on the murderer's track.<br>경찰이 살인자를 쫓고 있다.
+7. All <b>the</b> local <b>clergy</b> were asked to attend the ceremony.<br>지역의 모든 성직자들이 그 의식에 참석해 달라는 요청을 받았다.
+8. She married into <b>the aristocracy</b>.<br>그녀는 귀족 집안으로 시집을 갔다.
+9. <b>The</b> English <b>gentry</b> are next below the noblity.<br>영국의 신사 계급은 귀족 다음간다.
+10. The arrogance of <b>the nobility</b> was resented by the middle class.<br>중산층은 귀족들의 오만함에 분개했다.
+
 
 ## 불가산명사
 셀 수 없는 명사를 불가산명사(uncountable noun)라고 한다.
