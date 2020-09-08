@@ -47,3 +47,31 @@ else:
 
 exit(0)
 ```
+
+Instance of subprocess:
+``` python
+import subprocess
+
+completedProcess = subprocess.CompletedProcess(["fake", "*~*"], 1)
+print(completedProcess)
+```
+
+Basic usage of run function:
+``` python
+import subprocess
+
+completedProcess = subprocess.run(["python", "test.py", "-H"])
+print(completedProcess)
+```
+
+*timeout* argumanet and TimeoutExpired exception:
+``` python
+import subprocess
+
+try:
+    maybeYouCanNeverBe = subprocess.run(["python", "test.py", "-H"], timeout=0.01)
+    print(maybeYouCanNeverBe)
+except subprocess.TimeoutExpired:
+    yeahRightImRight = subprocess.CompletedProcess(["TryAgainNot", "-~-"], 1)
+    print(yeahRightImRight)
+```
