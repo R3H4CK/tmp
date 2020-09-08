@@ -15,7 +15,14 @@
 ### 정관사
 특정한 대상을 한정하는 관사를 정관사(definite article)라고 한다.
 
-<blockquote>
+<blockquote style="
+border: 1px solid #27a9e3;
+margin-left: 0px;
+margin-right: 0px;
+padding-left: 20px;
+padding-right: 20px;
+border-left: 10px solid #27a9e3;
+">
 	<div>
 		<ol>
 			<li>자음 앞에서는 a, 모음 앞에서는 an</li>
