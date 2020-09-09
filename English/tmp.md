@@ -94,6 +94,32 @@
 * 고유명사
 * 추상명사
 
+### 물질명사
+나누어 셀 수 없는 물질을 나타내는 명사를 물질명사(Material Noun)라고 한다.
+
+<blockquote>
+  <div>
+    <ol>
+      <li>
+        집합적 물질명사: 量에서 무언가를 특정할 수는 없으므로 부정관사를 붙이지 않고 항상 단수 취급한다.<br>
+        ex) furniture, clothing, machinery, produce, game, baggage, merchandise
+      </li>
+      <li>
+        물질명사의 수량 표시: 물질명사는 양화사를 사용하여 헤아릴 수 있다.<br>
+        ex) a piece of, an article of, much, little
+      </li>
+      <li>
+        물질명사의 보통명사화: 관사+물질명사, 물질명사+복수어미<br>
+        ex) the water, clothes, glasses, silks, papers
+      </li>
+    </ol>
+  </div>
+</blockquote>
+
+1. I don't think you can get a piece of furniture made in a year and 45 days now.<br>나는 오늘날에는 가구 조차도 1년 45일 만에 만든 것을 찾을 수 없다.
+2. We found an article of clothing in the vehicle.<br>우리는 그 차량에서 옷가지를 발견했다.
+3. A piece of machinery crushed a finger and scooped a chunk of flesh out of my thigh.<br>기계 한 대가 손가락을 으스러뜨리고 내 허벅지에서 살점을 뜯어냈다.
+
 ## 명사구
 명사를 핵으로 하여 명사의 역할을 하는 구를 명사구(noun phrase)라고 한다.
 
