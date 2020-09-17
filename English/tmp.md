@@ -59,6 +59,7 @@
         ex) part, portion, half, the rest, the majority, most, the bulk
       </li>
     </ol>
+    
     Note: 집합이 아닌 그 구성원에 초점을 맞춰 복수 취급하는 경우 이를 군집명사라고 한다.
   </div>
 </blockquote>
@@ -105,7 +106,7 @@
       </li>
       <li>
         물질명사의 수량 표시: 물질명사는 양화사를 사용하여 헤아릴 수 있다.<br>
-        ex) a piece of, an article of, much, little
+        ex) a piece of, an article of, much, little, all
       </li>
       <li>
         물질명사의 보통명사화: 관사+물질명사, 물질명사+복수어미<br>
@@ -115,9 +116,13 @@
   </div>
 </blockquote>
 
-1. I don't think you can get a piece of furniture made in a year and 45 days now.<br>나는 오늘날에는 가구 조차도 1년 45일 만에 만든 것을 찾을 수 없다.
-2. We found an article of clothing in the vehicle.<br>우리는 그 차량에서 옷가지를 발견했다.
-3. A piece of machinery crushed a finger and scooped a chunk of flesh out of my thigh.<br>기계 한 대가 손가락을 으스러뜨리고 내 허벅지에서 살점을 뜯어냈다.
+1. I don't think you can get <b>a piece of furniture</b> made in a year and 45 days now.<br>나는 오늘날에는 가구 조차도 1년 45일 만에 만든 것을 찾을 수 없다.
+2. We found <b>an article of clothing</b> in the vehicle.<br>우리는 그 차량에서 옷가지를 발견했다.
+3. <b>A piece of machinery</b> crushed a finger and scooped a chunk of flesh out of my thigh.<br>기계 한 대가 손가락을 으스러뜨리고 내 허벅지에서 살점을 뜯어냈다.
+4. <b>All produce</b> is organic.<br>모든 농산물이 유기농 제품이다.
+5. Finding dogs track the <b>game</b> in packs.<br>사냥개들은 떼로 사냥감을 추적한다.
+6. Baggage should be cross-checked against the names of individual passengers.<br>수하물은 승객 개개인의 이름을 대조해 가며 확인해야 한다.
+
 
 ## 명사구
 명사를 핵으로 하여 명사의 역할을 하는 구를 명사구(noun phrase)라고 한다.
@@ -133,3 +138,4 @@
 5. 허준석, 정다운, 중학영문법 총정리, 쏠티북스, 2018
 6. 조응호, 성문綜合英語 Sub-Note, 서울학원, 1982~1990
 7. 이성철, Super 문법연습, 도서출판 ienglish, 2006
+8. 네이버 영어사전, en.dict.naver.com
