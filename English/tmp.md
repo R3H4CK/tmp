@@ -7,13 +7,20 @@
 * 명사의 성
 * 명사의 격
 
-## 가산명사
+
+## 가산명사와 불가산명사
+영어의 명사를 분류하는 기준의 하나로 영어권 화자의 사고를 이해하는 첫걸음이라 할 수 있다.
+
+* 가산명사
+* 불가산명사
+
+### 가산명사
 셀 수 있는 명사를 가산명사(countable noun)라고 한다.
 
 * 보통명사
 * 집합명사
 
-### 보통명사
+#### 보통명사
 같은 종류의 사물에 두루 쓰이는 명사를 보통명사(Common Noun)라고 한다.
 
 <blockquote>
@@ -39,7 +46,7 @@
 6. He escaped death by <b>an inch</b>. <br> 그는 아슬아슬하게 죽음을 모면했다.
 7. Somebody was knocking on <b>the window</b>. <br> 누군가가 창문을 두드리고 있었다.
 
-### 집합명사
+#### 집합명사
 비슷한 성질을 가진 하나의 집단을 가리킬 때 쓰이는 명사를 집합명사(Collective Noun)라고 한다.
 
 <blockquote>
@@ -90,14 +97,14 @@
 21. <b>Most</b> of football stickers are swaps.<br>내 축구 스티커는 대부분 교환한 것들이다.
 22. <b>The bulk</b> of the poulation lives in cities.<br>인구의 대부분이 도시에 산다.
 
-## 불가산명사
+### 불가산명사
 셀 수 없는 명사를 불가산명사(uncountable noun)라고 한다.
 
 * 물질명사
 * 고유명사
 * 추상명사
 
-### 물질명사
+#### 물질명사
 나누어 셀 수 없는 물질을 나타내는 명사를 물질명사(Material Noun)라고 한다.
 
 <blockquote>
@@ -132,14 +139,30 @@
 11. <b>Silks</b> and satins put out the fire in the kitchen.<br>옷치레가 심하면 밥을 굶는다.
 12. <b>The papers</b> were strewn about the room.<br>방안 여기저기에 신문이 흩어져 있었다.
 
-## 규칙변화
 
-## 불규칙변화
+## 규칙변화와 불규칙변화
 
-## 명사구
+### 규칙변화
+
+### 불규칙변화
+
+
+## 명사의 성
+
+
+## 명사의 격
+
+
+## 명사구와 명사절
+명사를 핵으로하는 구나 절을 보다 해석의 관점에서 분석하는 부분이다.
+
+* 명사구
+* 명사절
+
+### 명사구
 명사를 핵으로 하여 명사의 역할을 하는 구를 명사구(noun phrase)라고 한다.
 
-## 명사절
+### 명사절
 접속사와 결합하여 명사의 역할을 하는 절을 명사절(noun clause)이라고 한다.
 
 ## Reference
