@@ -1,8 +1,11 @@
 # 명사
 사람이나 사물 또는 추상적인 대상을 가리키는 품사를 명사(noun)라고 한다.
 
-* 가산명사
-* 불가산명사
+* 가산명사와 불가산명사
+* 규칙변화와 불규칙변화
+* 명사구와 명사절
+* 명사의 성
+* 명사의 격
 
 ## 가산명사
 셀 수 있는 명사를 가산명사(countable noun)라고 한다.
@@ -121,8 +124,17 @@
 3. <b>A piece of machinery</b> crushed a finger and scooped a chunk of flesh out of my thigh.<br>기계 한 대가 손가락을 으스러뜨리고 내 허벅지에서 살점을 뜯어냈다.
 4. <b>All produce</b> is organic.<br>모든 농산물이 유기농 제품이다.
 5. Finding dogs track the <b>game</b> in packs.<br>사냥개들은 떼로 사냥감을 추적한다.
-6. Baggage should be cross-checked against the names of individual passengers.<br>수하물은 승객 개개인의 이름을 대조해 가며 확인해야 한다.
+6. <b>Baggage</b> should be cross-checked against the names of individual passengers.<br>수하물은 승객 개개인의 이름을 대조해 가며 확인해야 한다.
+7. This <b>merchandise</b> is intended chiefly for foreign markets.<br>이 상품은 주로 외국 시장을 겨냥한 것이다.
+8. <b>The water</b> was bubbling and boiling away.<br>물이 보글보글 끓고 있었다.
+9. <b>The clothes</b> froze solid on the washing-line.<br>빨랫줄의 빨래가 꽁꽁 얼었다.
+10. I didn't have my <b>glasses</b> on.<br>나는 안경을 쓰고 있지 않았다.
+11. <b>Silks</b> and satins put out the fire in the kitchen.<br>옷치레가 심하면 밥을 굶는다.
+12. <b>The papers</b> were strewn about the room.<br>방안 여기저기에 신문이 흩어져 있었다.
 
+## 규칙변화
+
+## 불규칙변화
 
 ## 명사구
 명사를 핵으로 하여 명사의 역할을 하는 구를 명사구(noun phrase)라고 한다.
