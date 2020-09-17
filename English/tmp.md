@@ -59,7 +59,6 @@
         ex) part, portion, half, the rest, the majority, most, the bulk
       </li>
     </ol>
-    
     Note: 집합이 아닌 그 구성원에 초점을 맞춰 복수 취급하는 경우 이를 군집명사라고 한다.
   </div>
 </blockquote>
